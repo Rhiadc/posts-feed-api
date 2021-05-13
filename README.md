@@ -1,7 +1,7 @@
 # posts-feed-api
 
 
-API para um feeds de posts público criado com NodeJs e Express.
+API para um feed de posts públicos criado com NodeJs, Express e MongoDB.
   - Autenticação feita com JWT usando Bearer Token e Middleware
   - CRUD de usuários respeitando a autenticação de cada um
   - CRUD de posts, respeitando a autenticação de cada usuário
@@ -13,5 +13,5 @@ API para um feeds de posts público criado com NodeJs e Express.
 
 #### Você pode ver uma live version da API implementada em um feed criado com React: [Live version](https://post-feed-network.herokuapp.com/)
 
-Design inicial dos models:  <br/>
+Design inicial dos models noSQL:  <br/>
 <img src="https://i.ibb.co/RyDqFBz/Captura-de-tela-2021-05-13-195258.png" width="500" title="hover text">
