@@ -2,7 +2,7 @@
 
 
 API para um feeds de posts público criado com NodeJs e Express.
-  - Autenticação feita com JWT usando Bearer Token
+  - Autenticação feita com JWT usando Bearer Token e Middleware
   - CRUD de usuários respeitando a autenticação de cada um
   - CRUD de posts, respeitando a autenticação de cada usuário
   - Like de posts para usuário cadastrado e logado
