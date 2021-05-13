@@ -11,7 +11,7 @@ API para um feed de posts públicos criado com NodeJs, Express e MongoDB.
 
 #### Você pode conferir a [documentação da API](https://documenter.getpostman.com/view/15618055/TzRVekiL).
 
-#### Você pode ver uma live version da API implementada em um feed criado com React: [Live version](https://post-feed-network.herokuapp.com/)
+#### Você pode ver uma live version com algumas da funções da API implementadas em um feed público criado com React: [Live version](https://post-feed-network.herokuapp.com/)
 
 Design inicial dos models noSQL:  <br/>
 <img src="https://i.ibb.co/RyDqFBz/Captura-de-tela-2021-05-13-195258.png" width="500" title="hover text">
