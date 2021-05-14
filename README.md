@@ -10,7 +10,7 @@ API para um feed de posts públicos criado com NodeJs, Express e MongoDB.
   - Image upload handler nos updates de Usuário, criação de post e update de post
 
 #### Você pode conferir a [documentação da API](https://documenter.getpostman.com/view/15618055/TzRVekiL).
-
+#### Você pode ver uma live version com algumas das funcionalidades da API implementadas em um feed público criado com React: [Live version](https://post-feed-network.herokuapp.com/) 
 
 
 Design inicial dos models noSQL:  <br/>
